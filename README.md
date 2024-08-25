@@ -35,3 +35,6 @@ The server will run on http://localhost:8080 by default.
 
 Ensure the WebSocket server is running to enable real-time communication by checking it in the terminal - WebSocket server is running on ws://localhost:8080
 
+OUTPUT-
+
+![image](https://github.com/user-attachments/assets/b194668c-68fa-4d47-a26d-643bd789ca03)
