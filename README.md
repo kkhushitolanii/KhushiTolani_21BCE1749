@@ -1,0 +1,21 @@
+Running the Application-
+
+Client Setup
+Navigate to the client directory:
+cd client
+Install the necessary dependencies:
+npm install
+Start the React development server:
+npm start
+The client will run on http://localhost:3000 by default. We can access the application in web browser.
+
+Server Setup
+Navigate to the server directory:
+cd server
+Install the necessary dependencies:
+npm install
+Start the server:
+npm start
+The server will run on http://localhost:8080 by default. 
+Ensure the WebSocket server is running to enable real-time communication by checking it in the terminal - WebSocket server is running on ws://localhost:8080
+
